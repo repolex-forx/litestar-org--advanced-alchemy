@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/advanced-alchemy/commit/e051a5de1a008b70f2d67b416e236a8c59e69433",
       "git:hexsha": "e051a5de1a008b70f2d67b416e236a8c59e69433",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/advanced-alchemy/commit/0736cd9b738b283bc99ab7e483aa055ada133898",
